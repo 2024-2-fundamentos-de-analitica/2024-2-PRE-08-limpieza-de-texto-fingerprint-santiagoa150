@@ -4,7 +4,7 @@ import os
 
 import pandas as pd  # type: ignore
 
-from _solution import clean_data
+from homework import clean_data
 
 
 def test_homework():
